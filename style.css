@@ -8,6 +8,9 @@
 .mb-30{
     margin-bottom: 30px;
  }
+ .mb-70{
+     margin-bottom: 70px;
+ }
 .text-center{
     text-align: center;
 }
@@ -60,7 +63,7 @@ h2.title-text {
     font-size: 48px;
     line-height: 70px;
 }
-.mission-wrapper {
+.section-wrapper {
     width: 90%;
     margin: 0 auto;
     display: flex;
@@ -89,4 +92,37 @@ h2.title-text {
 .single-mission h4 {
     margin: 0;
     font-size: 24px;
+}
+.develop-area{
+    background-image: url(img/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 15%;
+}
+.section-text {
+    padding-top: 15px;
+}
+.section-img img {
+    width: 400px;
+    height: 400px;
+    margin-right: 70px;
+}
+
+.title-two h2 {
+    font-size: 36px;
+    margin-bottom: 0;
+}
+
+.section-text p {
+    font-size: 18px;
+    line-height: 30px;
+    margin-bottom: 35px;
+    padding-right: 40px;
+    
+}
+.community-area{
+    background-image: url(img/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 15%;
 }
