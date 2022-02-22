@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;0,600;0,700;1,400&family=Yeseva+One&display=swap');
+.pt-90{
+    padding-top: 90px;
+}
+.pt-50{
+    padding-top: 50px;
+}
+.mb-30{
+    margin-bottom: 30px;
+ }
+.text-center{
+    text-align: center;
+}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.btn{
+    background-color: #FF5959;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.flexible-container{
+    display: flex;
+}
+.half-width{
+    width: 40%;
+    margin: 0 5% 0 5%;
+}
+.hero-img img {
+    width: 85%;
+}
+h2.title-text {
+    font-size: 60px;
+    text-transform: capitalize;
+    line-height: 80px;
+    margin-bottom: 15px;
+    font-family: 'Yeseva One', cursive;
+}
+
+.orngColor{
+    color: #FFAD5A;
+}
+.hero-title p {
+    font-size: 18px;
+    line-height: 28px;
+    padding-right: 25px;
+    margin-bottom: 30px;
+}
+.hero-title small {
+   display: block;
+   margin-top: 30px;
+}
+.title-one h2 {
+    font-size: 48px;
+    line-height: 70px;
+}
+.mission-wrapper {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+}
+
+.single-mission img {
+    height: 140px;
+    width: 140px;
+}
+.mission-one{
+    background-color: #F1F9FA;
+}
+.mission-two{
+    background-color: #FFEEEE;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.mission-three{
+    background-color: #FFF4D6;
+}
+.single-mission {
+    width: 28%;   
+    padding: 20px;
+    border-radius: 10px;
+}
+.single-mission h4 {
+    margin: 0;
+    font-size: 24px;
+}
